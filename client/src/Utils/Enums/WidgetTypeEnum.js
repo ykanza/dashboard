@@ -1,0 +1,14 @@
+const WidgetTypeEnum = {
+    DEFAULT: -1,
+    WEATHER_TEMPERATURE: 1,
+    EXCHANGE_RATE: 2,
+    EXCHANGE_RATE_EVOLUTION: 3,
+    CINEMA_MOVIES: 4,
+    PLAYER_COUNT: 5,
+    SUBREDDIT: 6,
+    YOUTUBE_VIDEO_STATS: 7,
+    YOUTUBE_CHANNEL_STATS: 8,
+    YOUTUBE_COMMENTS: 9,
+}
+
+export default WidgetTypeEnum;
